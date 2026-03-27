@@ -4,7 +4,7 @@ export default function Index() {
       <div className="grain-overlay" />
 
       <header className="header">
-        <div className="logo">PIZZA*RETRO</div>
+        <div className="logo">PIZZA&ROLLS</div>
         <nav>
           <a href="#">Меню</a>
           <a href="#">О нас</a>
@@ -196,7 +196,7 @@ export default function Index() {
 
       <footer>
         <div>
-          <div className="footer-logo">PIZZA*RETRO</div>
+          <div className="footer-logo">PIZZA&ROLLS</div>
           <p style={{ color: "#666", lineHeight: 1.6 }}>
             Горячая пицца с доставкой до двери. Тесто на закваске, авторские соусы и ретро-вайб с 2024 года.
           </p>
